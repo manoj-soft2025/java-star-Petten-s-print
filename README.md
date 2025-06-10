@@ -1,1 +1,1 @@
-# java-star-Petten-s-print
+# java-star-patterns-print
